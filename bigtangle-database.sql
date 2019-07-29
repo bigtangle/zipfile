@@ -84,7 +84,7 @@ CREATE TABLE `blocks` (
 
 LOCK TABLES `blocks` WRITE;
 /*!40000 ALTER TABLE `blocks` DISABLE KEYS */;
-INSERT INTO `blocks` VALUES ('D๖–Q๘ฎ\ไ๛\ื\๋\๎4\็๖J\Ý\่\าL€l\๊=๓K \฿',1,'\0\0\09\ย\ส\ห\์-9\ุmด\๋Dk[o,-^sf)C๗Q-\ศ\๋\็$\ๆ…9\ย\ส\ห\์-9\ุmด\๋Dk[o,-^sf)C๗Q-\ศ\๋\็$\ๆ…ฏh!cฌ๐/Xมม4!ฟษ”SS$\ีt\ีDตQ.๐ง6PHAp;]\0\0\0\0ÿÿ? \0\0\0\0\0\0\0\0\0\0\0\0#๐…\ๅ\๋\ฬ็จ’\n\ศo\ั\ÞLกIฆ\\ซ\ิ\0\0\0\0\0\0\0\0\0\0\0\0\0\Û\Þ\็Ic3\๊\ใh6 ๒q)\ู{nDฟZYนj<ญF\0\0\0\0HG0D P@ภ\ฮV•๔X0\า/US\สWนำVül\ร+  xRง\์Bฅ.Ug\nu…tม S`\ห8UþgVณ~ÿÿÿÿ\0\0\0\0 rN	\0\0ผ#!r^ฐ(.K\ศjซ3€โปฃ“\\บ8gAมTG—42\ฦ\ษuฌü\0\0\0\0\0\0ผvฉ~hUฎ\วs๚ต…ฬx]ฐฌ—rN	\0\0ผ#!r^ฐ(.K\ศjซ3€โปฃ“\\บ8gAมTG—42\ฦ\ษuฌ\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0',0,'…\ๆ$\็\๋\ศ-Q๗C)fs^-,o[kD\๋ดm\ุ9-\์\ห\ส\ย9','…\ๆ$\็\๋\ศ-Q๗C)fs^-,o[kD\๋ดm\ุ9-\์\ห\ส\ย9','\ๅ\๋\ฬ็จ’\n\ศo\ั\ÞLกIฆ\\ซ\ิ',NULL,1,100,1,2,1,1564176452929,1,1564176449849,1),('\'ฺ\์ฅ1V\ๆ\อุ%\0@‘ใพฮ(\฿	&]Xึ”',2,'\0\0\0\฿ K๓=\๊l€L\า\่\ÝJ๖\็4\๎\๋\ื๛\ไฎ๘Q–๖D\฿ K๓=\๊l€L\า\่\ÝJ๖\็4\๎\๋\ื๛\ไฎ๘Q–๖DX\Ü!ฅ(_#~oฑ\็ฐ\'๙ฌý$\\\ฬz\ๅก=มzฑ<]\0\0\0\0ÿÿ? \0\0\0\0\0\0\0\0\0\0\0\0ีบWถ\ๅ\๋\ฬ็จ’\n\ศo\ั\ÞLกIฆ\\ซ\ิ\0\0\0\0\0\0\0\0\0\0\0\0\0ฏh!cฌ๐/Xมม4!ฟษ”SS$\ีt\ีDตQ.๐ง6PH\0\0\0\0kH0E!\0PE5|-\ะ&\ล๒J\r\ิ\วjข\า5a๓w Ab7\อþ\๊ีR~ต\ฮSn:H\\\ษqR^oc—๓hฑ!X\ฮR\ฺ\๏@•M\ศำ•\nถGัซg\ฬ\ํÿ\ÝKDฃ+ÿÿÿÿ\0\0\0ü\0\0\0\0\0\0ผvฉ~hUฎ\วs๚ต…ฬx]ฐฌ\0\0\0\0\0\0ผvฉษ‘&!:97*ÞkF๘ญณฌd\0\0\0\0\0\0\0ผvฉ~hUฎ\วs๚ต…ฬx]ฐฌ\0\0\0\0\0\0\0test\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0',0,'D๖–Q๘ฎ\ไ๛\ื\๋\๎4\็๖J\Ý\่\าL€l\๊=๓K \฿','D๖–Q๘ฎ\ไ๛\ื\๋\๎4\็๖J\Ý\่\าL€l\๊=๓K \฿','\ๅ\๋\ฬ็จ’\n\ศo\ั\ÞLกIฆ\\ซ\ิ',NULL,1,100,0,1,1,1564217268137,0,1564217266534,1),('…\ๆ$\็\๋\ศ-Q๗C)fs^-,o[kD\๋ดm\ุ9-\์\ห\ส\ย9',0,'\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\Û\Þ\็Ic3\๊\ใh6 ๒q)\ู{nDฟZYนj<ญFm#^[\0\0\0\0ÿÿ? \0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0ÿÿÿÿ\0ÿÿÿÿ\0\0\0\0\0 rN	\0\0ผ#!r^ฐ(.K\ศjซ3€โปฃ“\\บ8gAมTG—42\ฦ\ษuฌ\0\0\0\0\0\0\0\0\0\0\0\0\ู\0\0\0{\n  \"version\" : 1,\n  \"fromHeight\" : -1,\n  \"toHeight\" : 0,\n  \"prevRewardHash\" : {\n    \"bytes\" : \"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=\",\n    \"reversedBytes\" : \"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=\"\n  }\n}\0\0\0\0\0\0\0\0',0,'\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0','\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0','\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0',NULL,0,100,2,3,1,1564176432643,2,1564176432309,1);
+INSERT INTO `blocks` VALUES ('…\ๆ$\็\๋\ศ-Q๗C)fs^-,o[kD\๋ดm\ุ9-\์\ห\ส\ย9',0,'\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\Û\Þ\็Ic3\๊\ใh6 ๒q)\ู{nDฟZYนj<ญFm#^[\0\0\0\0ÿÿ? \0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0ÿÿÿÿ\0ÿÿÿÿ\0\0\0\0\0 rN	\0\0ผ#!r^ฐ(.K\ศjซ3€โปฃ“\\บ8gAมTG—42\ฦ\ษuฌ\0\0\0\0\0\0\0\0\0\0\0\0\ู\0\0\0{\n  \"version\" : 1,\n  \"fromHeight\" : -1,\n  \"toHeight\" : 0,\n  \"prevRewardHash\" : {\n    \"bytes\" : \"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=\",\n    \"reversedBytes\" : \"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=\"\n  }\n}\0\0\0\0\0\0\0\0',0,'\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0','\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0','\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0',NULL,0,100,0,1,1,1564350456329,0,1564350456137,1);
 /*!40000 ALTER TABLE `blocks` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -213,7 +213,7 @@ CREATE TABLE `multisignaddress` (
 
 LOCK TABLES `multisignaddress` WRITE;
 /*!40000 ALTER TABLE `multisignaddress` DISABLE KEYS */;
-INSERT INTO `multisignaddress` VALUES ('8507e624e7ebc82d51f7432966735e2d2c6f5b6b44ebb46dd8392deccbcac239','bc','14a4YnkmSCBGUqcmN2PX3tzxFthrDmyDXE','02721b5eb0282e4bc86aab3380e2bba31d935cba386741c15447973432c61bc975',0,1);
+INSERT INTO `multisignaddress` VALUES ('8507e624e7ebc82d51f7432966735e2d2c6f5b6b44ebb46dd8392deccbcac239','bc01','14a4YnkmSCBGUqcmN2PX3tzxFthrDmyDXE','02721b5eb0282e4bc86aab3380e2bba31d935cba386741c15447973432c61bc975',0,1),('a289f54b7f68910707a293b464577c78bc40c30a2ec50c3de20c3d5d0be40eff','bc','14a4YnkmSCBGUqcmN2PX3tzxFthrDmyDXE','02721b5eb0282e4bc86aab3380e2bba31d935cba386741c15447973432c61bc975',0,1);
 /*!40000 ALTER TABLE `multisignaddress` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -369,7 +369,7 @@ CREATE TABLE `outputs` (
 
 LOCK TABLES `outputs` WRITE;
 /*!40000 ALTER TABLE `outputs` DISABLE KEYS */;
-INSERT INTO `outputs` VALUES ('Fญ<jนYZฟDn{\ู)q๒ 6h\ใ\๊3cI\็\Þ\Û',0,10000000000000,'!r^ฐ(.K\ศjซ3€โปฃ“\\บ8gAมTG—42\ฦ\ษuฌ','14a4YnkmSCBGUqcmN2PX3tzxFthrDmyDXE',2,1,'…\ๆ$\็\๋\ศ-Q๗C)fs^-,o[kD\๋ดm\ุ9-\์\ห\ส\ย9','bc','',NULL,1,1,1,1564176449846,'D๖–Q๘ฎ\ไ๛\ื\๋\๎4\็๖J\Ý\่\าL€l\๊=๓K \฿',0),('HP6ง๐.QตD\ีt\ี$SS”ษฟ!4มมX/๐ฌc!hฏ',0,2300,'vฉ~hUฎ\วs๚ต…ฬx]ฐฌ','1CXP8KYjcbC2c4XLnbBhweXQaLAccqjzLd',1,0,'D๖–Q๘ฎ\ไ๛\ื\๋\๎4\็๖J\Ý\่\าL€l\๊=๓K \฿','bc','',NULL,1,1,1,1564217266532,'\'ฺ\์ฅ1V\ๆ\อุ%\0@‘ใพฮ(\฿	&]Xึ”',1564176449),('HP6ง๐.QตD\ีt\ี$SS”ษฟ!4มมX/๐ฌc!hฏ',1,9999999997700,'!r^ฐ(.K\ศjซ3€โปฃ“\\บ8gAมTG—42\ฦ\ษuฌ','14a4YnkmSCBGUqcmN2PX3tzxFthrDmyDXE',2,0,'D๖–Q๘ฎ\ไ๛\ื\๋\๎4\็๖J\Ý\่\าL€l\๊=๓K \฿','bc','',NULL,0,1,0,0,NULL,1564176449),('zม=ก\ๅz\ฬ\\$ýฌ๙\'ฐ\็ฑo~#_(ฅ!\ÜX',0,2200,'vฉษ‘&!:97*ÞkF๘ญณฌ','1KNnhefRbUCZKGeXD56bmFgC4dX73F9eZB',1,0,'\'ฺ\์ฅ1V\ๆ\อุ%\0@‘ใพฮ(\฿	&]Xึ”','bc','1CXP8KYjcbC2c4XLnbBhweXQaLAccqjzLd','test',0,1,0,0,NULL,1564217266),('zม=ก\ๅz\ฬ\\$ýฌ๙\'ฐ\็ฑo~#_(ฅ!\ÜX',1,100,'vฉ~hUฎ\วs๚ต…ฬx]ฐฌ','1CXP8KYjcbC2c4XLnbBhweXQaLAccqjzLd',1,0,'\'ฺ\์ฅ1V\ๆ\อุ%\0@‘ใพฮ(\฿	&]Xึ”','bc','1CXP8KYjcbC2c4XLnbBhweXQaLAccqjzLd','test',0,1,0,0,NULL,1564217266);
+INSERT INTO `outputs` VALUES ('Fญ<jนYZฟDn{\ู)q๒ 6h\ใ\๊3cI\็\Þ\Û',0,10000000000000,'!r^ฐ(.K\ศjซ3€โปฃ“\\บ8gAมTG—42\ฦ\ษuฌ','14a4YnkmSCBGUqcmN2PX3tzxFthrDmyDXE',2,1,'…\ๆ$\็\๋\ศ-Q๗C)fs^-,o[kD\๋ดm\ุ9-\์\ห\ส\ย9','bc','',NULL,0,1,0,0,NULL,0);
 /*!40000 ALTER TABLE `outputs` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -520,7 +520,7 @@ CREATE TABLE `tips` (
 
 LOCK TABLES `tips` WRITE;
 /*!40000 ALTER TABLE `tips` DISABLE KEYS */;
-INSERT INTO `tips` VALUES ('\'ฺ\์ฅ1V\ๆ\อุ%\0@‘ใพฮ(\฿	&]Xึ”');
+INSERT INTO `tips` VALUES ('…\ๆ$\็\๋\ศ-Q๗C)fs^-,o[kD\๋ดm\ุ9-\์\ห\ส\ย9');
 /*!40000 ALTER TABLE `tips` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -562,7 +562,7 @@ CREATE TABLE `tokens` (
 
 LOCK TABLES `tokens` WRITE;
 /*!40000 ALTER TABLE `tokens` DISABLE KEYS */;
-INSERT INTO `tokens` VALUES ('8507e624e7ebc82d51f7432966735e2d2c6f5b6b44ebb46dd8392deccbcac239',1,'bc',0,10000000000000,'BIG','BigTangle Currency','bc',1,3,1,'',0,NULL,NULL,0,NULL,NULL,'',2);
+INSERT INTO `tokens` VALUES ('8507e624e7ebc82d51f7432966735e2d2c6f5b6b44ebb46dd8392deccbcac239',1,'bc01',0,1,'bc','BigTangle Domain','bc',1,3,1,'',0,NULL,NULL,0,NULL,NULL,'',2),('a289f54b7f68910707a293b464577c78bc40c30a2ec50c3de20c3d5d0be40eff',1,'bc',0,10000000000000,'BIG','BigTangle Currency',NULL,1,0,1,'',0,NULL,NULL,0,NULL,NULL,'8507e624e7ebc82d51f7432966735e2d2c6f5b6b44ebb46dd8392deccbcac239',2);
 /*!40000 ALTER TABLE `tokens` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -685,4 +685,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2019-07-28  2:10:01
+-- Dump completed on 2019-07-29  2:10:01
