@@ -262,6 +262,7 @@ CREATE TABLE `myserverblocks` (
 
 LOCK TABLES `myserverblocks` WRITE;
 /*!40000 ALTER TABLE `myserverblocks` DISABLE KEYS */;
+INSERT INTO `myserverblocks` VALUES ('d\ÊlM\É\Í<b-!\Å|·\ázW+™\ÝKXEq÷\á\Ñ','#F« ù»\Û)Iÿf©3\çŸüQˆ°Y+\à™Dzt',1564909483559);
 /*!40000 ALTER TABLE `myserverblocks` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -688,4 +689,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2019-08-04  2:10:01
+-- Dump completed on 2019-08-05  2:10:01
